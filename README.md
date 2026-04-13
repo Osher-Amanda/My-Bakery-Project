@@ -1,6 +1,9 @@
 Favel's Bakery & Paws Café
 
-This is the very first website I’ve ever built! It’s a landing page for Favel's Bakery & Paws Café, a cozy spot designed for both people and their pets. The idea was to create a digital space that feels as welcoming as the café itself, featuring artisan pastries for humans and a specialized "Pet Menu" for their four-legged friends.
+This is the very first website I’ve ever built!
+[Click here to see the live website!] (https://osher-amanda.github.io/My-Bakery-Project/)
+
+It’s a landing page for Favel's Bakery & Paws Café, a cozy spot designed for both people and their pets. The idea was to create a digital space that feels as welcoming as the café itself, featuring artisan pastries for humans and a specialized "Pet Menu" for their four-legged friends.
 
 The Concept
 
